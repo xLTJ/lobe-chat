@@ -10,7 +10,7 @@ One-click **FREE** deployment of your private OpenAI ChatGPT/Claude/Gemini/Groq/
 
 **English** · [简体中文](./README.zh-CN.md) · [日本語](./README.ja-JP.md) · [Official Site][official-site] · [Changelog](./CHANGELOG.md) · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link]
 
-<!-- SHIELD GROUP -->
+<!-- SHIELD GROUSP -->
 
 [![][github-release-shield]][github-release-link]
 [![][docker-release-shield]][docker-release-link]
